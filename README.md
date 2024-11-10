@@ -1,5 +1,7 @@
 <h1 align="center">Hi there, I'm <a href="https://github.com/xprvtt" target="_blank">xprvtt</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center"><img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif"/></h3>
+<h2>About Me</h2>
 👀 𝙄'𝙢 𝙞𝙣𝙩𝙚𝙧𝙚𝙨𝙩𝙚𝙙 𝙞𝙣 𝙖𝙣𝙞𝙢𝙚, 𝙢𝙤𝙫𝙞𝙚𝙨 𝙖𝙣𝙙 𝙜𝙖𝙢𝙚𝙨<br>
 🌱 𝙄’𝙢 𝙘𝙪𝙧𝙧𝙚𝙣𝙩𝙡𝙮 𝙡𝙚𝙖𝙧𝙣𝙞𝙣𝙜 С++<br>
 📫 𝙃𝙤𝙬 𝙩𝙤 𝙧𝙚𝙖𝙘𝙝 𝙢𝙚 - 𝙭𝙥𝙧𝙫𝙩𝙩@𝙜𝙢𝙖𝙞𝙡.𝙘𝙤𝙢<br>
