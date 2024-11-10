@@ -11,7 +11,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xprvtt&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![xprvtt's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=xprvtt&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
+<h1>LeetCode stats<h1>
+
+[![xprvtt's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=xprvtt)](https://github.com/KnlnKS/leetcode-stats)
 
 <!---
 xprvtt/xprvtt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
