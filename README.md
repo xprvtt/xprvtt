@@ -7,7 +7,6 @@
 🌱 I'm currently learning C++ <br>
 📫 How to reach me - <xprvtt@gmail.com><br>
 
-I'm lazy and in my free time I like to play Dota 2 with sweaty guys<br>
 <h2>WakaTime<h2>
 
 <a href="https://wakatime.com/@018d551d-ea79-4bb8-9ea2-5f154fa99c60"><img src="https://wakatime.com/badge/user/018d551d-ea79-4bb8-9ea2-5f154fa99c60.svg" alt="Total time coded since Jan 29 2024" /></a> <br>
