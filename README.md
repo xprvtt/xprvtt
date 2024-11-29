@@ -5,7 +5,7 @@
 
 👀 I'm interested in anime, moveis, music and games <br>
 🌱 I'm currently learning C++ <br>
-📫 How to reach me - <xprvtt@gmail.com><br>
+
 
 <h2>WakaTime<h2>
 
