@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm <a href="https://github.com/xprvtt" target="_blank">xprvtt</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<!---<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>--->
 <h3 align="center"><img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif"/></h3>
 <h2>About Me</h2>
 
