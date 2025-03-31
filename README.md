@@ -3,7 +3,7 @@
 <h3 align="center"><img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif"/></h3>
 <h2>About Me</h2>
 
-👀 I'm interested in anime, moveis, music and games <br>
+👀 I'm interested in moveis, music and games <br>
 🌱 I'm currently learning C++ <br>
 
 
